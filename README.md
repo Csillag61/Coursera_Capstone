@@ -1,3 +1,10 @@
 # Coursera_Capstone
-#Table of Contents
+# Table of Contents
 ## Please note <a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/Coordinates.ipynb">Coordinates</a> answers 'Segmenting and Clustering Neighborhoods in Toronto's questions. 
+## <a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/Introduction%20to%20Battle%20of%20Neighborhoods%20.ipynb"> Introduction to Battle of Neighborhood </a>
+##<a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/Data%20to%20use%20in%20Battle%20of%20Neighborhoods%20.ipynb"> Data to Battle of Neighborhood</a>
+##<a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/UsHungarianPopulataion.ipynb"> Battle of the Neiborhood Part 1/US Hungarian Population today </a>
+##<a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/covidUS-short.ipynb"> Battle of the Neiborhood Part 2/covidUS</a>
+##<a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/The%20Battle%20of%20Neighborhoods%20(Week%202).ipynb"> Battle of Neighborhood Part 3/Opening a Hungarian Restaurant  in a Hungarian Neighborhoods somewhere in North America</a>
+##Report on Battle of Neighborhood Part 3/Opening a Hungarian Restaurant  in a Hungarian Neighborhoods somewhere in North America
+##Presentation
