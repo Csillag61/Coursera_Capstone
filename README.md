@@ -9,4 +9,4 @@ Please note <a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/
 4.<a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/covidUS-short.ipynb"> Battle of the Neiborhood Part 2: covidUS</a><br>
 5.<a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/The%20Battle%20of%20Neighborhoods%20(Week%202).ipynb"> Battle of Neighborhood Part 3: Opening a Hungarian Restaurant  in a Hungarian Neighborhoods somewhere in North America</a></br>
 6. <a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/Battle%20of%20Neighborhoods(Report).pdf">Report</a> on Battle of Neighborhood Part 1 - 3/Opening a Hungarian Restaurant  in a Hungarian Neighborhoods somewhere in North America<br>
-7.Presentation</p>
+7.<a href="https://github.com/Csillag61/Coursera_Capstone/blob/master/Battle%20of%20NeighborhoodsPresentation.pdf">Presentation </a></p>
